@@ -1,0 +1,37 @@
+2026-03-05 21:37:50,893 | INFO | === CIEC iniciado ===
+2026-03-05 21:37:50,893 | INFO | Processamento iniciado
+2026-03-05 21:37:50,895 | INFO | Pasta origem: D:\Imagens\urna_eletronica
+==== INICIO ====
+Versao...........: 1.0.0
+Data/Hora........: 2026-03-05 21:37:50
+Entrada..........: D:\Imagens\urna_eletronica
+Base Saida.......: D:\Imagens\urna_eletronica
+Convertidos......: D:\Imagens\urna_eletronica\convertidos
+Tamanho..........: 161x225 (fixo)
+Quality..........: 90
+AutoBrightness...: ON
+Ignorar Saida....: ON
+Modo teste.......: OFF
+Saida achatada...: convertidos (sem subpastas)
+Nomes............: normalizados (sem acentos/especiais/espaços)
+
+[OK] SRC=D:\Imagens\urna_eletronica\0d548d7a-9619-4c9e-b2c5-b08e7bd573fb.jpeg  DST=D:\Imagens\urna_eletronica\convertidos\0d548d7a-9619-4c9e-b2c5-b08e7bd573fb.jpg  AJUSTE=auto_bright:mean=167.6,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\15380073785bac2152eefe5_1538007378_3x2_md.jpg  DST=D:\Imagens\urna_eletronica\convertidos\15380073785bac2152eefe5_1538007378_3x2_md.jpg  AJUSTE=auto_bright:mean=116.0,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\2023-09-12-segurança-urna.jpg  DST=D:\Imagens\urna_eletronica\convertidos\2023-09-12-seguranca-urna.jpg  AJUSTE=auto_bright:mean=147.9,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\images (1).jpeg  DST=D:\Imagens\urna_eletronica\convertidos\images_1.jpg  AJUSTE=auto_bright:mean=164.4,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\images.jpeg  DST=D:\Imagens\urna_eletronica\convertidos\images.jpg  AJUSTE=auto_bright:mean=125.5,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\image_processing20210615-8757-b8yj9g.jpeg  DST=D:\Imagens\urna_eletronica\convertidos\image_processing20210615-8757-b8yj9g.jpg  AJUSTE=auto_bright:mean=155.1,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\istockphoto-1435582112-612x612.jpg  DST=D:\Imagens\urna_eletronica\convertidos\istockphoto-1435582112-612x612.jpg  AJUSTE=auto_bright:mean=172.7,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\ue-2000-1-848x477.webp  DST=D:\Imagens\urna_eletronica\convertidos\ue-2000-1-848x477.jpg  AJUSTE=auto_bright:mean=166.0,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\Urna 2010 (1).jpg  DST=D:\Imagens\urna_eletronica\convertidos\Urna_2010_1.jpg  AJUSTE=auto_bright:mean=174.1,B=1.00,C=1.03
+[OK] SRC=D:\Imagens\urna_eletronica\urna_eletroninca.jpeg  DST=D:\Imagens\urna_eletronica\convertidos\urna_eletroninca.jpg  AJUSTE=auto_bright:mean=151.0,B=1.00,C=1.03
+Lista............: D:\Imagens\urna_eletronica\convertidos\lista.txt
+
+==== RESUMO ====
+Arquivos (imagens) encontrados: 10
+Imagens processadas (OK)      : 10
+Ignorados (não-imagem/skip)   : 0
+Falhas reais                  : 0
+Log (convertidos)             : D:\Imagens\urna_eletronica\convertidos\log.txt
+Log de execução (logs/)       : logs\ciec_20260305_2137.log
+==== FIM ====
